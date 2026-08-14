@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=harshprime0003&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
 
-<div align="center">
+<div align="center" display="flex" gap="10px>
 
 <a href="https://github.com/harshprime0003"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
