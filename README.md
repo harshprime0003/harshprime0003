@@ -21,21 +21,33 @@
 
 <!-- SOCIAL LINKS -->
 
+<table>
+<tr>
+<td align="center">
+
 <a href="https://github.com/harshprime0003">
-  <img
-    src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+  alt="GitHub"
+/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td width="25"></td>
+
+<td align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
+  alt="LinkedIn"
+/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
