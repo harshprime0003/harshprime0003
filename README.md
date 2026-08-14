@@ -1,44 +1,32 @@
 <div align="center">
 
-<br>
+<!-- ANIMATED MULTICOLOR HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,28&height=220&section=header&text=HARSH%20YADUVANSHI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    HARSH YADUVANSHI                        -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&height=75&lines=HARSH+YADUVANSHI"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=42&lines=Full+Stack+Developer+in+Progress;Building+Real-World+Projects;React+%7C+JavaScript+%7C+Node.js;Learning+%7C+Building+%7C+Improving"/>
-
-<br><br>
-
-<!-- SOCIAL LINKS -->
-
+<!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/harshprime0003">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=🚀+Full+Stack+Developer+in+Progress;🧠+AI+%26+Data+Science+Student;💻+Building+Real-World+Web+Apps;🔥+React+%7C+Node.js+%7C+Express+%7C+MongoDB"/>
 </a>
 
-  
+<br>
 
+<!-- GLOWING SOCIAL BADGES -->
+<a href="https://github.com/harshprime0003">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<!-- STATUS -->
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=flat-square&labelColor=111827"/>
+<!-- ANIMATED PROFILE METRICS & STATUS BADGES -->
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%9A%80-22C55E?style=for-the-badge&labelColor=0F172A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-3B82F6?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%F0%9F%92%A1-3B82F6?style=for-the-badge&labelColor=0F172A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MINDSET-LEARNING-8B5CF6?style=flat-square&labelColor=111827"/>
-
-<br><br>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING%20%F0%9F%93%96-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
