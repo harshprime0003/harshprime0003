@@ -1,228 +1,214 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=230&section=header&text=HARSH%20YADUVANSHI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Harsh%20Yaduvanshi&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+
+<h2>🚀 Full Stack Developer in Progress</h2>
+
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+DS);Aspiring+Full+Stack+Developer;Building+with+JavaScript+%26+React;Learning+Node.js+%26+MongoDB;Strengthening+DSA+%F0%9F%A7%A0;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80"/> </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=🚀+Full+Stack+Developer+in+Progress;🧠+AI+%26+Data+Science+Student;💻+Building+Real-World+Web+Applications;⚡+React+%7C+Node.js+%7C+Express+%7C+MongoDB"/>
-
-<br>
-
-<a href="https://github.com/harshprime0003">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILDING-🚀%20Every%20Day-111827?style=for-the-badge&labelColor=0F172A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-4F46E5?style=for-the-badge&labelColor=0F172A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MINDSET-KEEP%20LEARNING-7C3AED?style=for-the-badge&labelColor=0F172A"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=harshprime0003&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<a href="https://github.com/harshprime0003"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harsh-yaduvanshi-300407367/)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Harsh!
+# 👋 Hey, I'm Harsh!
 
-I'm a **B.Tech Computer Science student specializing in Artificial Intelligence & Data Science**, currently focused on becoming a strong **Full Stack Developer**.
+I'm a **B.Tech Computer Science student specializing in Artificial Intelligence & Data Science**, currently focused on becoming a **job-ready Full Stack Developer**.
 
-I enjoy building real-world projects, experimenting with new technologies, and improving my problem-solving skills through **DSA and hands-on development**.
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 What I Do
-
-- Build modern web applications
-- Learn Full Stack Development
-- Practice Data Structures & Algorithms
-- Explore new technologies
-- Turn ideas into real projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 What I'm Working Toward
-
-- Strong React fundamentals
-- Backend development
-- REST APIs
-- MongoDB
-- Production-level projects
-- Becoming Job Ready 🚀
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 💻 Developer Snapshot
+I enjoy turning ideas into working applications and continuously improving my skills through **projects, problem solving and hands-on development**.
 
 ```javascript
 const harsh = {
-  name: "Harsh Yaduvanshi",
+    name: "Harsh Yaduvanshi",
+    role: "Full Stack Developer",
+    education: "B.Tech CSE (AI & DS)",
 
-  role: "Aspiring Full Stack Developer",
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+    ],
 
-  education: "B.Tech CSE | AI & Data Science",
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Tailwind CSS"
-  ],
+    database: [
+        "MongoDB"
+    ],
 
-  backend: [
-    "Node.js",
-    "Express.js"
-  ],
+    languages: [
+        "JavaScript",
+        "Java"
+    ],
 
-  database: [
-    "MongoDB"
-  ],
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
 
-  languages: [
-    "JavaScript",
-    "Java"
-  ],
+    currentlyLearning: [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Data Structures & Algorithms"
+    ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
-
-  currentlyLearning: [
-    "React.js",
-    "Node.js",
-    "MongoDB",
-    "Data Structures & Algorithms"
-  ],
-
-  mindset: "Learn → Build → Improve → Repeat 🚀"
+    goal: "Become a strong Full Stack Developer 🚀"
 };
+```
 
-🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack
+
 <div align="center">
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+### 💻 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 <br><br>
 
-⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 <br><br>
 
-🧑‍💻 Languages & Tools
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode"/> </div>
-🚀 Currently Learning
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=⚛️+Building+with+React.js;🟢+Learning+Node.js+%26+Express;🍃+Working+with+MongoDB;🧠+Strengthening+Data+Structures+%26+Algorithms;🚀+Becoming+a+Better+Full+Stack+Developer"/> </div>
-⭐ Featured Projects
-<div align="center"> <table> <tr> <td width="50%" valign="top">
-🌦️ Weather App
+### 🧠 Programming & Tools
 
-A JavaScript weather application built to practice API integration, dynamic data handling and responsive UI.
-
-Tech
-
-JavaScript Weather API
-
-<br> <a href="https://github.com/harshprime0003/3--Weather-app"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> <td width="50%" valign="top">
-💰 FinTrack Pro
-
-A finance-focused web project created to explore frontend development and interactive user interfaces.
-
-Tech
-
-JavaScript HTML CSS
-
-<br> <a href="https://github.com/harshprime0003/fintrackPro-assignment-8"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
-🪐 Nebula AI
-
-A visually focused frontend project created to experiment with modern layouts and interactive UI.
-
-Tech
-
-HTML CSS
-
-<br> <a href="https://github.com/harshprime0003/nebula-ai-app"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> <td width="50%" valign="top">
-🌿 Two Leaves Website
-
-A responsive frontend website focused on layout, visual hierarchy and clean styling.
-
-Tech
-
-HTML CSS
-
-<br> <a href="https://github.com/harshprime0003/Task-6-Two-Leaves-website"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
-🎨 Tamky Assignment
-
-A CSS-focused project built to improve styling, layouts and visual design skills.
-
-Tech
-
-HTML CSS
-
-<br> <a href="https://github.com/harshprime0003/Tamky-assignment-7"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> <td width="50%" valign="top">
-🧩 Assignment 3
-
-A frontend practice project focused on strengthening HTML and CSS fundamentals.
-
-Tech
-
-HTML CSS
-
-<br> <a href="https://github.com/harshprime0003/Assignment-3"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </td> </tr> </table> <br> <a href="https://github.com/harshprime0003?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshprime0003&theme=github_dark"/> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshprime0003&theme=github_dark"/>
-
-<br><br>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshprime0003&theme=github_dark"/> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshprime0003&theme=github_dark"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=harshprime0003&theme=dark&hide_border=true&border_radius=14&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/> </div>
-📈 Contribution Activity
-<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshprime0003&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Harsh%20Yaduvanshi's%20Contribution%20Graph"/> </div>
-🎯 2026 Goals
-<div align="center"> <table> <tr> <td align="center"><b>Goal</b></td> <td align="center"><b>Status</b></td> </tr> <tr> <td>Master React.js</td> <td>🔄</td> </tr> <tr> <td>Learn Node.js & Express</td> <td>🔄</td> </tr> <tr> <td>Build Full Stack Applications</td> <td>🔄</td> </tr> <tr> <td>Strengthen DSA</td> <td>🔄</td> </tr> <tr> <td>Build Production-Level Projects</td> <td>🔄</td> </tr> <tr> <td>Contribute to Open Source</td> <td>⏳</td> </tr> <tr> <td>Become Job Ready</td> <td>🎯</td> </tr> </table> </div> <br> <div align="center">
-
-The goal isn't to learn everything.
-The goal is to become really good at building. 🚀
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 
 </div>
-🧠 Developer Mindset
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1300&color=94A3B8&center=true&vCenter=true&width=800&height=45&lines=%22Every+bug+is+another+thing+to+understand.%22;%22Don't+just+write+code.+Understand+it.%22;%22Consistency+beats+motivation.%22;%22Build+something+that+solves+a+real+problem.%22"/> </div>
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/harshprime0003"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
 
-  
+---
 
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
+# 🚀 Currently Learning
 
-<br><br>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=Code.+Learn.+Build.+Repeat.+🚀;One+commit+at+a+time.;See+you+in+the+next+commit..."/> </div> <br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:312E81,100:7C3AED&animation=twinkling"/> ```
+| 📚 Technology | 🎯 Focus                            |
+| :-----------: | :---------------------------------- |
+|  ⚛️ React.js  | Components • Props • State • Hooks  |
+|   🟢 Node.js  | Backend Development • APIs          |
+| 🚂 Express.js | REST APIs • Server-side Development |
+|   🍃 MongoDB  | Database • CRUD • Data Modeling     |
+|     🧠 DSA    | Problem Solving • Coding Patterns   |
+| 🚀 Full Stack | Building & Deploying Real Projects  |
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 🛒 HarshStore — E-Commerce Website
+
+A technology-focused e-commerce website built to practice modern frontend development and JavaScript.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Vite`
+
+---
+
+## 📋 Task Manager
+
+A task management application built to practice DOM manipulation, events, form handling and interactive UI development.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+## ⚛️ React Product Application
+
+A React application built while learning reusable components, props, state rendering and modern UI development.
+
+**Tech Stack:** `React.js` `JavaScript` `Tailwind CSS`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshprime0003&theme=github_dark&animation=load" height="190"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshprime0003&theme=github_dark&animation=load" height="190"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=harshprime0003&theme=github-dark-blue&hide_border=true&border_radius=10&short_numbers=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshprime0003&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Harsh%20Yaduvanshi's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                  🚀 2026 GOALS                       ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  ☐ Become job-ready in Full Stack Development       ║
+║  ☐ Build production-level projects                  ║
+║  ☐ Master React.js                                   ║
+║  ☐ Learn Node.js & Express deeply                    ║
+║  ☐ Build & deploy full-stack applications            ║
+║  ☐ Strengthen DSA & problem solving                 ║
+║  ☐ Contribute to Open Source                        ║
+║  ☐ Land my first developer opportunity 🚀           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+### **"First, solve the problem. Then, write the code."**
+
+<br>
+
+💡 **Learn** → 🛠️ **Build** → 🧪 **Improve** → 🚀 **Deploy**
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+### ⚡ Code. Learn. Build. Repeat.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+
+</div>
