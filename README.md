@@ -12,8 +12,9 @@
 
 <!-- ANIMATED DEVELOPER TEXT -->
 
+<!-- Animated developer text -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=45&lines=🚀+Full+Stack+Developer+in+Progress;🧠+AI+%26+Data+Science+Student;💻+Building+Real-World+Web+Applications;⚡+React+%7C+Node.js+%7C+Express+%7C+MongoDB"
+  src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=50&lines=Full+Stack+Developer+in+Progress;AI+%26+Data+Science+Student;Building+Real-World+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB"
   alt="Developer Typing Animation"
 />
 
