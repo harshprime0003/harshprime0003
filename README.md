@@ -4,14 +4,11 @@
 
 <h2>🚀 Full Stack Developer in Progress</h2>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+DS);Aspiring+Full+Stack+Developer;Building+with+JavaScript+%26+React;Learning+Node.js+%26+MongoDB;Strengthening+DSA+%F0%9F%A7%A0;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80"/>
-</p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+DS);Aspiring+Full+Stack+Developer;Building+with+JavaScript+%26+React;Learning+Node.js+%26+MongoDB;Strengthening+DSA+%F0%9F%A7%A0;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80"/> </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=harshprime0003&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
-
+<a href="https://github.com/harshprime0003"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harsh-yaduvanshi-300407367/)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </div>
 
@@ -202,21 +199,7 @@ A React application built while learning reusable components, props, state rende
 
 </div>
 
----
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/harshprime0003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harsh-yaduvanshi-300407367/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
