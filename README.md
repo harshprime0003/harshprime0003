@@ -3,8 +3,8 @@
 <!-- ========================== HERO ========================== -->
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,45:06141D,75:003B4D,100:00E5FF&height=250&section=header&text=HARSH%20YADUVANSHI&fontSize=46&fontColor=FFFFFF&fontAlignY=45&animation=twinkling"
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,45:06141D,75:003B4D,100:00E5FF&height=140&section=header&text=HARSH%20YADUVANSHI&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=twinkling"
   alt="Harsh Yaduvanshi"
 />
 
@@ -12,43 +12,29 @@
 
 <!-- ANIMATED DEVELOPER TEXT -->
 
-<!-- Animated developer text -->
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=50&lines=Full+Stack+Developer+in+Progress;AI+%26+Data+Science+Student;Building+Real-World+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB"
+  src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=50&lines=Full+Stack+Developer+in+Progress;AI+%26+Data+Science+Student;Building+Real-World+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB"
   alt="Developer Typing Animation"
 />
 
-<br><br>
+<br>
 
 <!-- SOCIAL LINKS -->
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
 <a href="https://github.com/harshprime0003">
-<img
-  src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF">
 </a>
 
-</td>
 
-<td width="25"></td>
 
-<td align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img
-  src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
-  alt="LinkedIn"
-/>
+<a href="https://www.linkedin.com/in/harsh-yaduvanshi-300407367/">
+<img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
@@ -102,9 +88,7 @@ I enjoy building real-world projects, experimenting with new technologies, and i
 <pre>
 const harsh = {
   name: "Harsh Yaduvanshi",
-
-  role: "Aspiring Full Stack Developer",
-
+  role: "Full Stack Developer",
   education: "B.Tech CSE | AI & Data Science",
 
   frontend: [
@@ -124,22 +108,10 @@ const harsh = {
     "MongoDB"
   ],
 
-  languages: [
-    "JavaScript",
-    "Java"
-  ],
-
-  tools: [
+ tools: [
     "Git",
     "GitHub",
     "VS Code"
-  ],
-
-  currentlyLearning: [
-    "React.js",
-    "Node.js",
-    "MongoDB",
-    "Data Structures & Algorithms"
   ],
 
   mindset: "Learn → Build → Improve → Repeat 🚀"
@@ -150,49 +122,36 @@ const harsh = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">  
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎨 Frontend  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  ⚙️ Backend & Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🧑‍💻 Languages & Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div><br>
 <div align="center">
-
-### 🎨 Frontend
-
-<img
+  <img
   src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"
   alt="Frontend Technologies"
 />
-
-<br><br>
-
-### ⚙️ Backend & Database
-
-<img
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
   src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"
   alt="Backend Technologies"
 />
-
-<br><br>
-
-### 🧑‍💻 Languages & Tools
-
-<img
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
   src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark"
   alt="Languages and Tools"
 />
+</div>
+
+
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
 
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=780&height=45&lines=⚛️+Building+with+React.js;🟢+Learning+Node.js+%26+Express;🍃+Working+with+MongoDB;🧠+Strengthening+Data+Structures+%26+Algorithms;🚀+Becoming+a+Better+Full+Stack+Developer"
-  alt="Currently Learning"
-/>
-
-</div>
-
----
 
 ## ⭐ Featured Projects
 
@@ -342,113 +301,26 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img
-  height="180"
+  height="280"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshprime0003&theme=github_dark"
   alt="GitHub Statistics"
 />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img
-  height="180"
+  height="280" border="none"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshprime0003&theme=github_dark"
   alt="Top Languages"
 />
 
 </div>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=harshprime0003&theme=dark&hide_border=true&border_radius=14&background=05070D&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-  alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harshprime0003&bg_color=05070D&color=00E5FF&line=00B8D4&point=FFFFFF&area=true&hide_border=true&custom_title=Harsh%20Yaduvanshi%27s%20Contribution%20Graph"
-  alt="Contribution Graph"
-/>
 
-</div>
 
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-<table>
-
-<tr>
-<td align="center"><b>Goal</b></td>
-<td align="center"><b>Status</b></td>
-</tr>
-
-<tr>
-<td>⚛️ Master React.js</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td>🟢 Learn Node.js & Express</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td>🏗️ Build Full Stack Applications</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td>🧠 Strengthen DSA</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td>🚀 Build Production-Level Projects</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td>🌎 Contribute to Open Source</td>
-<td>⏳</td>
-</tr>
-
-<tr>
-<td>🎯 Become Job Ready</td>
-<td>🎯</td>
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### "The goal isn't to learn everything."
-
-### "The goal is to become really good at building. 🚀"
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -461,9 +333,9 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
   />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+
+<a href="https://www.linkedin.com/in/harsh-yaduvanshi-300407367/">
   <img
     src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
     alt="LinkedIn"
