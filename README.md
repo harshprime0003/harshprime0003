@@ -1,29 +1,41 @@
 <div align="center">
 
+<!-- ========================== HERO ========================== -->
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:06141D,100:00E5FF&height=240&section=header&text=HARSH%20YADUVANSHI&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,45:06141D,75:003B4D,100:00E5FF&height=250&section=header&text=HARSH%20YADUVANSHI&fontSize=46&fontColor=FFFFFF&fontAlignY=45&animation=twinkling"
   alt="Harsh Yaduvanshi"
 />
 
 <br>
 
-<a href="https://github.com/harshprime0003">
-  <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=05070D"/>
-</a>
+<!-- ANIMATED DEVELOPER TEXT -->
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=05070D"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=45&lines=🚀+Full+Stack+Developer+in+Progress;🧠+AI+%26+Data+Science+Student;💻+Building+Real-World+Web+Applications;⚡+React+%7C+Node.js+%7C+Express+%7C+MongoDB"
+  alt="Developer Typing Animation"
+/>
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=🚀+Full+Stack+Developer+in+Progress;🧠+AI+%26+Data+Science+Student;💻+Building+Real-World+Web+Applications;⚡+React+%7C+Node.js+%7C+Express+%7C+MongoDB"
-  alt="Typing Animation"
-/>
+<!-- SOCIAL LINKS -->
+
+<a href="https://github.com/harshprime0003">
+  <img
+    src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
+    alt="LinkedIn"
+  />
+</a>
 
 </div>
 
@@ -129,19 +141,28 @@ const harsh = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Skills"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"
+  alt="Frontend Technologies"
+/>
 
 <br><br>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Skills"/>
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"
+  alt="Backend Technologies"
+/>
 
 <br><br>
 
 ### 🧑‍💻 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Languages and Tools"/>
+<img
+  src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark"
+  alt="Languages and Tools"
+/>
 
 </div>
 
@@ -178,7 +199,10 @@ A JavaScript weather application built to practice **API integration, dynamic da
 <br>
 
 <a href="https://github.com/harshprime0003/3--Weather-app">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="Weather App"
+  />
 </a>
 
 </td>
@@ -194,7 +218,10 @@ A finance-focused web project created to explore **frontend development and inte
 <br>
 
 <a href="https://github.com/harshprime0003/fintrackPro-assignment-8">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="FinTrack Pro"
+  />
 </a>
 
 </td>
@@ -214,7 +241,10 @@ A visually focused frontend project created to experiment with **modern layouts 
 <br>
 
 <a href="https://github.com/harshprime0003/nebula-ai-app">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="Nebula AI"
+  />
 </a>
 
 </td>
@@ -230,7 +260,10 @@ A responsive frontend website focused on **layout, visual hierarchy and clean st
 <br>
 
 <a href="https://github.com/harshprime0003/Task-6-Two-Leaves-website">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="Two Leaves Website"
+  />
 </a>
 
 </td>
@@ -250,7 +283,10 @@ A CSS-focused project built to improve **styling, layouts and visual design skil
 <br>
 
 <a href="https://github.com/harshprime0003/Tamky-assignment-7">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="Tamky Assignment"
+  />
 </a>
 
 </td>
@@ -266,7 +302,10 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
 <br>
 
 <a href="https://github.com/harshprime0003/Assignment-3">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="Assignment 3"
+  />
 </a>
 
 </td>
@@ -277,7 +316,10 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
 <br>
 
 <a href="https://github.com/harshprime0003?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="All Projects"
+  />
 </a>
 
 </div>
@@ -291,27 +333,15 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
 <img
   height="180"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshprime0003&theme=github_dark"
-  alt="GitHub Stats"
+  alt="GitHub Statistics"
 />
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img
   height="180"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshprime0003&theme=github_dark"
   alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshprime0003&theme=github_dark"
-  alt="Most Commit Language"
-/>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshprime0003&theme=github_dark"
-  alt="Productive Time"
 />
 
 </div>
@@ -407,43 +437,31 @@ A frontend practice project focused on strengthening **HTML and CSS fundamentals
 
 ---
 
-## 🧠 Developer Mindset
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1300&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=%22Every+bug+is+another+thing+to+understand.%22;%22Don't+just+write+code.+Understand+it.%22;%22Consistency+beats+motivation.%22;%22Build+something+that+solves+a+real+problem.%22"
-  alt="Developer Mindset"
-/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/harshprime0003">
-  <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="GitHub"
+  />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
+    alt="LinkedIn"
+  />
 </a>
-
-<br><br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=35&lines=Code.+Learn.+Build.+Repeat.+🚀;One+commit+at+a+time.;See+you+in+the+next+commit..."
-  alt="Footer Typing Animation"
-/>
 
 </div>
 
 <br>
+
+<!-- ========================== FOOTER ========================== -->
 
 <img
   width="100%"
